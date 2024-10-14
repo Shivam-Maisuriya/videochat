@@ -1,6 +1,6 @@
 # videochat
 
-A new Flutter project.
+A Video Chat app made with flutter also its ui is same as zoom 
 
 ## Getting Started
 
